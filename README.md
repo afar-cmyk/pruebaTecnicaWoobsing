@@ -10,7 +10,7 @@ La prueba consiste en maquetar en HTML, el modelo que se encuentra a continuaci√
 <br>
 
 ## Modelo base
-![Sitio web base de referencia](http://url/to/img.png)
+![Sitio web base de referencia](https://raw.githubusercontent.com/afar-cmyk/pruebaTecnicaWoobsing/master/img/landing-PRUEBA.jpg)
 
 <br>
 <br>
@@ -22,6 +22,7 @@ Personalice los espacios de contenido y textos (Incluya los elementos que consid
 Responsive Design (Relevancia: 40%)
 <br>
 <br>
-## Resultado
 
+
+## Resultado
 https://afar-cmyk.github.io/pruebaTecnicaWoobsing/
